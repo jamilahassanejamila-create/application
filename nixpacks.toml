@@ -1,0 +1,5 @@
+[phases.build]
+cmds = ["echo 'build done'"]
+
+[start]
+cmd = "node server.js"
